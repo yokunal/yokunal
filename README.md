@@ -163,21 +163,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-jha-743863282/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhakunal471@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kunal__jha_)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yokunal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kunal's GitHub Stats" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=yokunal&theme=dark&hide_border=false" alt="Kunal's Streak Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokunal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 <br/><br/>
 
